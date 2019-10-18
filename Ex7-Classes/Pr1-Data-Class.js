@@ -8,10 +8,3 @@ class Request {
         this.fulfilled = fulfilled ? fulfilled : false;
     }
 }
-
-
-
-
-
-
-
